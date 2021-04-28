@@ -4,7 +4,7 @@ A Java console applications that simulates a contacts manager on a mobile device
 
 Java 11
 
-![Screenshot 1](
+![Screenshot 1]()
 
 
 
